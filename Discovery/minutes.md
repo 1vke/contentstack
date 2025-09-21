@@ -1,8 +1,8 @@
 # Capstone Meeting Discovery
 
 **Minute Taker**: Brandon Dean <br/>
-**Date:** Thursday, September 18, 2025 9:02 AM <br/>
-**Topic:** Eric Crump from Contentstack initial meeting
+**Date:** Thursday, September 18, 2025 <br/>
+**Topic:** Contentstack discovery meeting
 
 ## Why
 
@@ -27,8 +27,7 @@
 
 ## Hosting/How it Works
 
-### GUI-Based
-
+- GUI-Based
 - The "Stack" is the content for the project.
 - The Stack has entries.
 - Entries have content.
