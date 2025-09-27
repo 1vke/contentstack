@@ -2,7 +2,9 @@
 
 ## **Summary**
 
-This project is a polished, playable game demo built to run on macOS. Its primary purpose is to showcase the integration of a headless CMS (Contentstack) with a game engine. Key features include an in-game marketplace, news section, and/or patch notes, where all content is dynamically pulled from a Contentstack environment. The finished product will be used by Sales Engineers as a technical demo during the pre-sales process.
+This project is a polished, playable game demo, initially built for macOS but designed to be universally available. Its primary purpose is to showcase the integration of a headless CMS (Contentstack) with a game engine.
+
+The demo focuses entirely on how content is dynamically pulled from Contentstack to populate the game environment. This includes all in-game text, descriptive assets, images, and configuration data, demonstrating how this information can be updated in real-time from an external source without requiring a new game build. The finished product will be used by Sales Engineers as a technical demo during the pre-sales process.
 
 ## **Team Members**
 
