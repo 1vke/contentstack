@@ -3,7 +3,7 @@
 
 ## Figma link
 
-Figma Link: https://www.figma.com/file/pi2Ydgt5OfaNCFoo20qA4S/Prototype?type=design&node-id=92-149&mode=design
+Prototype Figma Link: https://www.figma.com/design/C61i81hgKJI3eGVFTarGrl/ContentStack-Game-Demo?node-id=0-1&p=f&t=jkv6hX2VV366Mxpo-0
 
 ## Youtube walkthrough video
 
