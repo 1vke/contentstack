@@ -39,19 +39,3 @@
         2. The developer can log into the GUI and update an asset
         3. The developer can see the asset being implemented in real-time
     - Developers can use the API in an intuitive way, adding assets or changing aspects about them, such as dialogue or their sprite, quickly and efficiently. They can also use the API to remove assets in the game, or change other aspects, such as a karma meter or an if-then aspect where an NPC is only available if the player does a certain thing. Or they can add in-game events and NPCs. 
-
-- UC04: Developers can create holiday-specific assets and release them at a specific time
-    - Developers
-    - BR01
-    - Flow
-        1. Developer logs into Content Stack to view 
-        2. Developer adds entries for content types
-        3. Developer sets publish date for assets
-
-- UC05: Investors can see potential for the product
-    - Investors
-    - BR01
-    - Flow
-        1. The investor plays games or uses software
-        2. The investor can see the marketplace or a variety of assets
-        3. Investors can buy or invest in the product
